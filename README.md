@@ -1,2 +1,2 @@
-# tranxit-ios-versao-passageiro
-Versão IOS do Tranxit Passageiro UBER
+# Vamo-ios-versao-passageiro
+Versão IOS da VAMO versão passageiro
